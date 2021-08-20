@@ -1,5 +1,6 @@
 # LGM TASK 2:
-## TASK PREVIEW:![Screenshot (29)](https://user-images.githubusercontent.com/66368443/130222340-6beda9f5-afa2-421e-8f66-072fedf86150.png)
+## TASK : CREATE REACT BASED APP.
+### TASK PREVIEW:![Screenshot (29)](https://user-images.githubusercontent.com/66368443/130222340-6beda9f5-afa2-421e-8f66-072fedf86150.png)
 
 
 # Getting Started with Create React App
